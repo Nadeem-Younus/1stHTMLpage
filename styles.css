@@ -1,0 +1,36 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+h2 {
+    color:#191b19;
+    text-align:left;
+}
+h3 {
+    color: blueviolet;
+    text-align: left;
+    border: 2px black;
+}
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 50%;
+}
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+th {
+    background-color: lightgrey;
+}
+ol li {
+    color: red;
+}
+
+input[type=text]{
+    background-color: red;
+}
+input[type=number]{
+    background-color:yellow;
+}
